@@ -95,3 +95,35 @@ Performed using **Power Query** in Power BI:
 ---
 
 ## 📂 Repository Structure
+├── data/ # Dataset or link reference
+├── dashboard/ # PBIX or screenshots
+├── docs/ # Documentation, analysis notes
+├── images/ # Dashboard visuals
+└── README.md # Project documentation
+
+## 🖼 Dashboard Preview
+<img width="1332" height="745" alt="hr dashboard" src="https://github.com/user-attachments/assets/2ac346b5-3f89-4ff4-a061-4e0ea66de8d1" />
+
+
+## 🛠 Tools & Technologies
+- **Power BI Desktop**  
+- **Power Query**  
+- **DAX**  
+- **Microsoft Excel** (for validation)  
+
+---
+
+## 📥 How to Use This Project
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/yourusername/hr-analytics-dashboard.git
+   
+Open the .pbix file in Power BI Desktop
+
+Connect to the dataset if required
+
+Explore KPIs, filters, and visualizations
+
+
+
+
